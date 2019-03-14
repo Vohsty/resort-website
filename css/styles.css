@@ -1,0 +1,57 @@
+h1{
+  color: red;
+  text-align: center;
+  background-color: skyblue;
+}
+h2 {
+  height: 30px;
+  color: orange;
+  text-align: center;
+  background: skyblue;
+}
+head {
+  background-color: skyblue;
+}
+p {
+
+  height: 90px;
+  width: 30%;
+  background-color: orange;
+  background-blend-mode: overlay;
+}
+.intro{
+  background-color: skyblue;
+}
+
+.links {
+
+  text-align: center;
+  color: red;
+  background-color: green;
+  height: 160px;
+  width: 20%;
+  background-blend-mode: overlay;
+}
+.acc{
+  text-align: center;
+  background-color: inherit;
+  height: 30px;
+
+}
+.act {
+  background-color: inherit;
+  height: 30px;
+}
+.tra {
+  background-color: inherit;
+  height: 30px
+
+}
+body {
+  background-image: url("beach.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-blend-mode: lighten;
+}
