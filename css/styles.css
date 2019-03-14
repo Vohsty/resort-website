@@ -55,3 +55,6 @@ body {
   background-size: cover;
   background-blend-mode: lighten;
 }
+.room {
+  float: right;
+}
